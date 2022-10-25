@@ -1,7 +1,7 @@
 # Autism-2022
 **Author**: Tri Duc Nguyen
 
-**Inspiration**: This product is for the autistic children at Thien Duyen Mentor after my field trip last May.
+**Inspiration**: This product is for the autistic children at Thien Duyen Shelter after my field trip last May.
 
 **Three functions of this application**
   - Showing articles about infants to provide information for parents/guardians
